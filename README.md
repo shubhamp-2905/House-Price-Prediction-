@@ -1,3 +1,4 @@
-#House Price Prediction Model
+House Price Prediction Model
 
-![WhatsApp Image 2025-05-21 at 17 26 44_2155f348](https://github.com/user-attachments/assets/a939f46d-f158-4b5d-a4c6-46f143a1d4cc)
+![image](https://github.com/user-attachments/assets/3b98ef37-11e1-4ed1-a5f0-0feb7906e940)
+
